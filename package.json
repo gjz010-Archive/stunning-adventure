@@ -1,0 +1,22 @@
+{
+  "name": "stunning-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjz010/stunning-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjz010/stunning-adventure/issues"
+  },
+  "homepage": "https://github.com/gjz010/stunning-adventure#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
